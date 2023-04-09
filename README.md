@@ -8,11 +8,12 @@ Dataset link: https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
 # Installation
 To run this project, you will need to have Python 3 installed on your machine. Additionally, you will need to install the following libraries:
 
-NumPy
-Pandas
-Scikit-learn
-Matplotlib
-Seaborn
+* NumPy
+* Pandas
+* Scikit-learn
+* Matplotlib
+* Seaborn
+
 You can install these libraries using the following command:
 
 pip install numpy pandas scikit-learn matplotlib seaborn
